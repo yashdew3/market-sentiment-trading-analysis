@@ -22,13 +22,3 @@ env/
 .DS_Store
 Thumbs.db
 
-# Logs and outputs
-*.log
-*.csv
-*.pkl
-*.joblib
-
-# Ignore model and output files (optional)
-outputs/
-data/feature_engineered_data.csv
-outputs/models/
