@@ -1,0 +1,17 @@
+# Core Data Processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# Web App / Dashboard
+streamlit==1.35.0
+
+# System / Utility (optional for smoother terminal tools)
+tqdm==4.66.2
