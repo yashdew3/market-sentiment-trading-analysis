@@ -160,6 +160,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📬 Contact
 - Built by **Yash Dewangan**
 - Github: [YashDewangan](https://github.com/yashdew3)
-- Email: [yashdew06@gmail.com](yashdew06@gmail.com)
+- Email: [yashdew06@gmail.com](mailto:yashdew06@gmail.com)
+- Linkedin: [YashDewangan](https://www.linkedin.com/in/yash-dewangan)
 
 Enjoy using the Predictive Model for the Market Sentiment in Indian Stock Market! 🚀
